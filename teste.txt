@@ -1,0 +1,15 @@
+1100 0000 0011 0100 01
+
+11B0 0VB0 0V11 0100 01
+
+1) A - Linha -> Correta
+2) B - Manchester -> Errada
+3) D - AMI -> Correta
+4) A - Sincronização -> Errada
+5) B - Codificação em Linha -> Correta
+6) A - Codificação em Bloco -> Correta
+7) A - NRZ e RZ -> Errada
+8) D - Nem (a) nem (b) -> Errada
+9) D - Nenhuma -> Errada
+10) B - HDB3 -> Errada
+11) C - B8ZS -> Errada
